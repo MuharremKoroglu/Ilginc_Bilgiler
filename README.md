@@ -27,12 +27,7 @@ This app is a competition and shows how developers can use the class structure. 
 
 
 
-
-
-
-https://user-images.githubusercontent.com/68854616/161423570-c19b0ae8-69f9-4639-a475-cc4bec4d50e7.mp4
-
-
+https://user-images.githubusercontent.com/68854616/161424149-035af319-a7ab-4e8b-9f38-d43c22c137ac.mp4
 
 
 
